@@ -8,10 +8,12 @@
 
 Your challenge is to build out this dictionary web app using the [Free Dictionary API](https://dictionaryapi.dev/) and get it looking as close to the design as possible.
 
-You should use React or another Javascript Framework/Library.
-You should use Node.js for the back end (ie. routes).
-Bonus : Save in a json file the words the user searched for
-Bonus : Save in a database the most searched words, display those words in another page
+- You should use React or another Javascript Framework/Library.
+- You should use Node.js for the back end (ie. routes).
+- Bonus : Save in a json file the words the user searched for
+- Bonus : Save in a database the most searched words, display those words in another page
+
+---
 
 Your users should be able to:
 
